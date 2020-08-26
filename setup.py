@@ -23,7 +23,7 @@ setup(
     long_description=open('README.md', 'r', encoding="utf-8").read(),
     long_description_content_type="text/markdown",
     author=__author__,
-    author_email='liushilive@outlook.com',
+    author_email='1450644462@qq.com',
     url='https://github.com/Andyemmmm/RPBook',
     project_urls={
         '样板': 'https://andyemmmm.github.io/',
