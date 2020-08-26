@@ -33,7 +33,7 @@ setup(
     # include_package_data=True,
     license="MIT",
     zip_safe=True,
-    keywords='lsbook md',
+    keywords='RPbook md',
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Intended Audience :: Developers',
