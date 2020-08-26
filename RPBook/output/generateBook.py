@@ -47,7 +47,7 @@ def generateBook(book: Book):
     assets_img = renderer_html(book)
 
     logging.info("复制外部图片资源到输出目录")
-    img_import_path = get_pure_path(book.book_output, "lsbook_import_img")
+    img_import_path = get_pure_path(book.book_output, "RPbook_import_img")
     rmdir(img_import_path)
     while len(assets_img):
         copy(assets_img.pop(), img_import_path)
