@@ -1,4 +1,4 @@
-# LsBook
+# RPBook
 
 由于 [gitbook](https://www.gitbook.com/) 基于Nodejs单线程构建太慢了，决定自己写一个用于书写自己的书籍生成器。
 
