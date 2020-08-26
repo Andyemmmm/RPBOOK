@@ -9,8 +9,8 @@ class Book(object):
         self._summary_json = {}
         self._summary_classify_list = []
         self._config = {}
-        self._assets_path = ["assets", "lsbook"]
-        self._assets_path_out = "lsbook"
+        self._assets_path = ["assets", "RPbook"]
+        self._assets_path_out = "RPbook"
         self._i18n = {}
         self.pool = pool
         self._base_assets = base_assets
